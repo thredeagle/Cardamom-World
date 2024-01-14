@@ -141,7 +141,7 @@
                                 <i class="fas fa-box"></i>
                             </div>
                             <h4><a href="#service" class="title-head mb-3">Fertilizers</a></h4>
-                            <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                            <p class="text-para">Authorized Fertilizer Providers. </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
@@ -150,7 +150,7 @@
                                 <i class="fas fa-prescription-bottle"></i>
                             </div>
                             <h4><a href="#service" class="title-head mb-3">Pesticides</a></h4>
-                            <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                            <p class="text-para">Government authorized Pesticides. </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
@@ -159,7 +159,7 @@
                                 <i class="fas fa-cogs"></i>
                             </div>
                             <h4><a href="#service" class="title-head mb-3">Machineries</a></h4>
-                            <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                            <p class="text-para">Pre-book machineries. </p>
                         </div>
                     </div>
                 </div>
